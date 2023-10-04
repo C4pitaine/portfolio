@@ -47,7 +47,6 @@
                     <th>Prénom</th>
                     <th>Email</th>
                     <th>Date</th>
-                    <th>Message</th>
                     <th>Action</th>
                 </tr>
             </thead>
@@ -62,9 +61,9 @@
                             echo "<td>".$don['firstname']."</td>"; 
                             echo "<td>".$don['email']."</td>"; 
                             echo "<td>".$don['date']."</td>"; 
-                            echo "<td>".$don['message']."</td>"; 
                             echo "<td>";
-                                echo  "<a href='langues.php?delete=".$don['id']."' class='btn btn-danger'>Supprimer</a>";
+                                echo  "<a href='contact.php?delete=".$don['id']."' class='btn btn-danger me-3'>Supprimer</a>";
+                                echo  "<a href='message.php?id=".$don['id']."' class='btn btn-primary'>Afficher</a>";
                             echo "</td>"; 
                         echo "</tr>";
                     }
