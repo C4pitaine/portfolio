@@ -3,4 +3,7 @@ RewriteEngine On
 
 RewriteBase /PHP/portfolio
 
-RewriteRule ^website-([0-9]+)$ website.php?id=$1 [L]
+#Retour à l'index 
+RewriteRule ^website-([0-9]+)$ website.php?id=$1&back=I [L]
+#Retour à allProject
+RewriteRule ^Website-([0-9]+)$ website.php?id=$1&back=P [L]

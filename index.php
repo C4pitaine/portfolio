@@ -3,7 +3,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -125,7 +125,6 @@
                                     echo "<a href='website-".$don['id']."' class='btn'>";
                                         echo "<div>VIEW MORE</div>";
                                     echo "</a>";
-                                    
                                 echo "</div>";
                             echo "</div>";
                         }

@@ -1,7 +1,7 @@
 <footer>
     <div class="wrapper">
         <div class="logo">
-            <img src="images/Vector.png" alt="Logo Perso">
+            <img src="images/ico/Vector.png" alt="Logo Perso">
             <div class="names">
                 <h2 id="name">Alexandre Sacré - Portfolio</h2>
                 <p>Site servant de portfolio pour Sacré Alexandre</p>

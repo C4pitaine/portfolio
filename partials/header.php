@@ -1,7 +1,7 @@
 <header>
     <div class="wrapper">
         <div class="logo">
-            <img src="images/Vector.png" alt="Logo Perso">
+            <img src="images/ico/Vector.png" alt="Logo Perso">
             <div class="names">
                 <h2 id="name">Alexandre Sacré</h2>
                 <h2 id="site">Portfolio</h2>

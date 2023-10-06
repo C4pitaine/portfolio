@@ -19,18 +19,39 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="build/style.css">
-    <title>Document</title>
+    <title>Website <?=$don['name']?></title>
 </head>
 <body>
 <?php include "partials/header.php"; ?>
 <div class="slide" id="website">
     <div class="wrapper">
         <div class="about">
+            <?php
+                if(isset($_GET['back']))
+                {
+                    if($_GET['back'] == "I")
+                    {
+                        echo "<a href='index.php#projects' class='back'>";
+                            echo "<div>Back</div>";
+                        echo "</a>";
+                    }
+                    if($_GET['back'] == "P")
+                    {
+                        echo "<a href='allProjects.php' class='back'>";
+                            echo "<div>Back</div>";
+                        echo "</a>";
+                    }
+                }else{
+                    echo "<a href='index.php' class='back'>";
+                        echo "<div>Back</div>";
+                    echo "</a>";
+                }
+            ?>
             <div class="aboutMe">
                 <div class="information">
                     <div class="infoName">
