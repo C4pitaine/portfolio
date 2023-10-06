@@ -1,17 +1,17 @@
-<meta name="description" content="Portfolio, site portfolio de Sacré Alexandre">
-<link rel="apple-touch-icon" sizes="57x38" href="/photos/ico/apple-touch-icon-57.png">
-<link rel="apple-touch-icon" sizes="72x49" href="/photos/ico/apple-touch-icon-72.png">
-<link rel="apple-touch-icon" sizes="76x52" href="/photos/ico/apple-touch-icon-76.png">
-<link rel="apple-touch-icon" sizes="114x78" href="/photos/ico/apple-touch-icon-114.png">
-<link rel="apple-touch-icon" sizes="120x82" href="/photos/ico/apple-touch-icon-120.png">
-<link rel="apple-touch-icon" sizes="144x98" href="/photos/ico/apple-touch-icon-144.png">
-<link rel="apple-touch-icon" sizes="152x104" href="/photos/ico/apple-touch-icon-152.png">
-<link rel="icon" type="image/png" href="/photos/ico/favicon-196x134.png" sizes="196x134">
-<link rel="icon" type="image/png" href="/photos/ico/favicon-160x110.png" sizes="160x110">
-<link rel="icon" type="image/png" href="/photos/ico/favicon-96x66.png" sizes="96x66">
-<link rel="icon" type="image/png" href="/photos/ico/favicon-16x11.png" sizes="16x11">
-<link rel="icon" type="image/png" href="/photos/ico/favicon-32x22.png" sizes="32x22">
-<link rel="icon" type="image/png" href="/photos/ico/favicon.png">
+<meta name="description" content="Portfolio, site servant de portfolio pour Sacré Alexandre">
+<link rel="apple-touch-icon" sizes="57x47" href="/images/ico/apple-touch-icon-57.png">
+<link rel="apple-touch-icon" sizes="72x59" href="/images/ico/apple-touch-icon-72.png">
+<link rel="apple-touch-icon" sizes="76x62" href="/images/ico/apple-touch-icon-76.png">
+<link rel="apple-touch-icon" sizes="114x93" href="/images/ico/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="120x98" href="/images/ico/apple-touch-icon-120.png">
+<link rel="apple-touch-icon" sizes="144x117" href="/images/ico/apple-touch-icon-144.png">
+<link rel="apple-touch-icon" sizes="152x124" href="/images/ico/apple-touch-icon-152.png">
+<link rel="icon" type="image/png" href="/images/ico/favicon-196x160.png" sizes="196x134">
+<link rel="icon" type="image/png" href="/images/ico/favicon-160x131.png" sizes="160x110">
+<link rel="icon" type="image/png" href="/images/ico/favicon-96x78.png" sizes="96x66">
+<link rel="icon" type="image/png" href="/images/ico/favicon-16x13.png" sizes="16x11">
+<link rel="icon" type="image/png" href="/images/ico/favicon-32x26.png" sizes="32x22">
+<link rel="icon" type="image/png" href="/images/ico/favicon.png">
 <meta name="google" content="notranslate"/>
 <meta name="robots" content="noindex,nofollow">
 <meta property="og:title" content="Portfolio de Sacré Alexandre">

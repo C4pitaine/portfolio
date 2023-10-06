@@ -7,6 +7,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <?php
+        include "partials/meta.php";
+    ?>
     <link rel="stylesheet" href="build/style.css">
     <title>Accueil - Portfolio</title>
 </head>
@@ -97,7 +100,7 @@
             <div class="wrapper">
                 <h3>MY LAST PROJECTS</h3>
                 <a href="allProjects.php" id="seeAllP">
-                    <div>Voir tout mes projets</div>
+                    <div>View All</div>
                 </a>
             </div>
             <div class="projects">
