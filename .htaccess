@@ -1,8 +1,6 @@
 Options +FollowSymlinks
 RewriteEngine On 
 
-RewriteBase /PHP/portfolio
-
 #Retour à l'index 
 RewriteRule ^website-([0-9]+)$ website.php?id=$1&back=I [L]
 #Retour à allProject

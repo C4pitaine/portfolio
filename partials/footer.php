@@ -5,7 +5,7 @@
             <div class="names">
                 <h2 id="name">Alexandre Sacré - Portfolio</h2>
                 <p>Site servant de portfolio pour Sacré Alexandre</p>
-                <p>Design réalisé par Kimberley Quenon</p>
+                <p>Design réalisé par <a href="http://kimportfolio.kd-quenon.be/">Kimberley Quenon</a></p>
             </div>
         </div>
         <div class="copyright">
