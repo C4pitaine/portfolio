@@ -38,7 +38,7 @@
 <body>
     <div class="container">
         <h2>Gestion des langages</h2>
-        <a href="addLangage" class="btn btn-primary my-3">Ajouter un langage</a>
+        <a href="addLangage.php" class="btn btn-primary my-3">Ajouter un langage</a>
         <a href="dashboard.php" class="btn btn-secondary m-3">Retour</a>
         <?php
             if(isset($_GET['addsuccess']))
