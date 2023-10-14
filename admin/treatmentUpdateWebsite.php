@@ -96,7 +96,7 @@
             }else{
                 $dossier = '../images/upload/website/';
                 $fichier = basename($_FILES['image']['name']);
-                $taille_maxi = 200000;
+                $taille_maxi = 2000000;
                 $taille = filesize($_FILES['image']['tmp_name']);
                 $extensions = array('.png','.gif','.jpg','.jpeg');
                 $extension = strrchr($_FILES['image']['name'], '.');

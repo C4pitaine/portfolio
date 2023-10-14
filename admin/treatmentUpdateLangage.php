@@ -56,7 +56,7 @@
             }else{
                 $dossier = '../images/upload/logo/';
                 $fichier = basename($_FILES['logo']['name']);
-                $taille_maxi = 20000;
+                $taille_maxi = 2000000;
                 $taille = filesize($_FILES['logo']['tmp_name']);
                 $extensions = array('.png','.gif','.jpg','.jpeg','.svg');
                 $extension = strrchr($_FILES['logo']['name'], '.');
